@@ -6,7 +6,8 @@ In order to access the UI, select the link based on your group number.
 Participant prefix, user and password will be shared by your moderators.
 
 Please make sure you use the prefix that has been assigned to you. If you're unsure, please reach out to any moderators.
-[](/.github/assets/participant-prefix.png)
+
+[<img src="/.github/assets/participant-prefix.png"/>](/.github/assets/participant-prefix.png)
 
 [SAP Document AI Workspace](https://document-ai-emb-vduorygg.eu10-canary.doc.cloud.sap/ui)
 
