@@ -9,12 +9,12 @@ Participant prefix, user and password will be shared by your moderators.
 
 Please make sure you use the prefix that has been assigned to you. If you're unsure, please reach out to any moderators.
 <br> So, in the exercises, when you're naming or labeling any artifacts, you will use your prefix. In some screenshots, replace the "XX" with your prefix.
-<br> e.g. if A01 is assigned as your prefix
-<br> A01_COMPANY_REGISTRY_EXTRACT_STANDARD
-<br> A01 Company Registry Extract Standard
+- e.g. if A01 is assigned as your prefix
+- A01_COMPANY_REGISTRY_EXTRACT_STANDARD
+- A01 Company Registry Extract Standard
 
 ## Sample Documents
-Do download these documents as you will be using it later for the exercises.
+Download these documents as you will be using it later for the exercises.
 | Document Type | URL |
 | --- | --- |
 | Company Registry Extract | [CR 1](../documents/Company%20Registry%20Extract%20House%20of%20Companies%20UK.pdf) |
