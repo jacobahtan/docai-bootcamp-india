@@ -4,18 +4,24 @@ In this exercise, we will activate a content schema and upload our first documen
 A schema describes the structure of the information that we want to extract from a document and contains processing instructions as well as visualization-related configurations.
 Document processing is always based on schema, as part of the application, we deliver a number of content schemas, as a way to quickly start using the application for processing of various common document types.
 
-## Exercise 1.1 Activate a content schema 
+## Exercise 1.1 Create a new schema 
 
 After completing these steps you will have activated your first schema.
 
 1. In the home screen of SAP Document AI, click on "My Schemas". <br>![](../ex1/images/ex1_1.png)
 
-2. In the Schema overview page, search for "COMPANY_REGISTRY_EXTRACT_STANDARD". Select the checkbox and click on "Enable". <br>![](../ex1/images/ex1_2.png)
+2. Click on "Create Schema"
+<br>![](../ex1/images/ex1_1a.png)
 
-3. In the dialog, select version "1", and mark the checkbox "Activate" and click "Create". This will create a copy of the content and activate it so that you can use the schema afterwards for document processing. 
-<br> Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. 35_COMPANY_REGISTRY_EXTRACT_STANDARD | 35 Comapny Registry Extract Standard
-<br>![](../ex1/images/ex1_new3.png)
+3. In the dialog, enter the following details with your prefix e.g. A35_COMPANY_REGISTRY_EXTRACT_STANDARD. Select the Document Type of ***Comapny Registry Extract***
+<br> Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. A35_COMPANY_REGISTRY_EXTRACT_STANDARD | A35 Comapny Registry Extract Standard
+<br>![](../ex1/images/ex1_1b.png)
 
+4. Once created, open the newly created Schema and proceed to activate it.
+<br>![](../ex1/images/ex1_1c.png)
+Click on "Activate"
+<br>![](../ex1/images/ex1_1d.png)
+<br>![](../ex1/images/ex1_1e.png)
 
 ## Exercise 1.2 Upload your first document
 

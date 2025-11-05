@@ -17,7 +17,7 @@ The workflow will include three steps:
 For the classification, you will create a custom schema that classifies documents and stores the result (the document type).
 
 1. To create the schema, go to the schema UI and create a new schmea with name ***classification*** and document type ***Custom***.
-<br> Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. 35_CLASSIFICATION | 35 Classification
+<br> Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. A35_CLASSIFICATION | A35 Classification
 <br>![](../ex7/images/ex7_1_1.png)
 
 3. Navigate to the details of the newly created schema by clicking on it and then clicking on ***Version 1***.<br>
