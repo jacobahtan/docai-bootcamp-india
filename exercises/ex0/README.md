@@ -5,7 +5,7 @@
 In order to access the UI, select the link based on your group number.
 Participant prefix, user and password will be shared by your moderators.
 
-[SAP Document AI Workspace](https://document-ai-emb-vduorygg.eu10-canary.doc.cloud.sap/workspace)
+[SAP Document AI Workspace](https://document-ai-emb-vduorygg.eu10-canary.doc.cloud.sap/workspace#/landingPage)
 
 Please make sure you use the prefix that has been assigned to you. If you're unsure, please reach out to any moderators.
 <br> So, in the exercises, when you're naming or labeling any artifacts, you will use your prefix. In some screenshots, replace the "XX" with your prefix.
