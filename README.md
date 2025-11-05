@@ -1,14 +1,13 @@
-# AI162 - Get a hands-on experience with SAP Document AI
+# Get a hands-on experience with SAP Document AI
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2025 session called AI162 - Get a hands-on experience with SAP Document AI.  
+This repository contains the material for the Bootcamp in Mumbai 2025 - Get a hands-on experience with SAP Document AI.  
 
 
 ## Overview
 
 This session introduces attendees to [SAP Document AI](https://www.sap.com/products/artificial-intelligence/ai-foundation-os/document-ai.html), SAP's intelligent document processing solution.
-
 
 ## Exercises
 
@@ -22,19 +21,7 @@ This session introduces attendees to [SAP Document AI](https://www.sap.com/produ
 - [Exercise 3 - Add custom fields to your schema](exercises/ex3/)
 - [Exercise 4 - Review documents and automate the review](exercises/ex4/)
 - [Exercise 5 - Create a custom schema](exercises/ex5/)
-- [Exercise 6 - Use Instant Learning to improve extraction accuracy](exercises/ex6/)
+- [Demo 6 - Use Instant Learning to improve extraction accuracy](https://youtu.be/fOZsmAPaD9E)
 - [Exercise 7 - Create a document workflow](exercises/ex7/)
- 
-
-## Contributing
-Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
-
-## Code of Conduct
-Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples/.github/blob/main/CODE_OF_CONDUCT.md).
-
-## How to obtain support
-
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
-
-## License
-Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+- [Demo 8 - Email Ingestion with Channels](https://youtu.be/2CFz59M6QkE)
+- [Demo 9 - Document Scanning with SAP Mobile Start](https://youtu.be/6zSnSLFhono)
