@@ -85,14 +85,20 @@ Finally fill the schema version ID, with the value you stored in the previous ex
 11. Now follow the steps from 9. just replace the condition with:
 > classify.fetchValue(***"document_type"***) == ***"cr"***
 <br>![](../ex7/images/ex7_2_8.png)
+<br>![](../ex7/images/ex7_2_8a.png)
 
 12. The workflow should show three branches, two for our document types and one ***default*** which you can ignore.<br>
 For each of the branches that reference one of our document types, add an ***Extraction*** step.
 <br>![](../ex7/images/ex7_2_10.png)
 
-14. Fill each of these extraction steps with a schema version ID that matches a schema corresponding to the document type.<br>If you followed all exercises you should have one schema created for each document type.<br>
+13. Fill each of these extraction steps with a schema version ID that matches a schema corresponding to the document type.<br>If you followed all exercises you should have one schema created for each document type.<br>
 To get the version IDs, use a second browser tab, navigate to the schema UI and copy the version ID from the URL of each schema as done in the previous section of this exercise.
+<br>Workflow Extraction of Bill of Laden Document Type
 <br>![](../ex7/images/ex7_2_11.png)
+<br>![](../ex7/images/ex7_2_11a.png)
+<br> Workflow Extraction of Company Registry Document Type
+<br>![](../ex7/images/ex7_2_12.png)
+<br>![](../ex7/images/ex7_2_12a.png)
 
 ## Step 3 - Test your workflow
 
