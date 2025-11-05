@@ -33,9 +33,7 @@ You can either continue adding more fields or continue to - [Exercise 4](../ex4/
 
 | Topic | Duration | Link |
 | --- | --- | --- |
-| Exercise 0: Getting Started | - | [/exercises/ex0/](/exercises/ex0/) |
-| - Access the SAP Document AI User Interface | - | [/exercises/ex0#access-the-sap-document-ai-user-interface/](/exercises/ex0#access-the-sap-document-ai-user-interface) |
-| - Access the Sample Documents | - | [/exercises/ex0#sample-documents](/exercises/ex0#sample-documents) |
+| Exercise 0 - Getting Started | - | [/exercises/ex0/](/exercises/ex0/) |
 | Exercise 1 - Activate a Content Schema and Upload your first document | 5 mins | [/exercises/ex1/](/exercises/ex1/) |
 | Exercise 2 - Configure a Schema with Worklist and Object Page Header Entities | 5 mins | [/exercises/ex2/](/exercises/ex2/) |
 | Exercise 3 - Add Custom Fields to the Schema | 5 mins | [/exercises/ex3/](/exercises/ex3/) |
