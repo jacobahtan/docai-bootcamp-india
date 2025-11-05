@@ -81,9 +81,9 @@ Finally fill the schema version ID, with the value you stored in the previous ex
 9. In the branch edit dialog. Specify a label and add the following expression and click on ***Apply***:
 > classify.fetchValue(***"document_type"***) == ***"bol"***
 
-***classify*** here references the previous workflow step. 
-<br> ***document_type*** references the field from the schema and 
-<br> ***bol*** the value of this field. Therefore, it is crucial to follow the exact naming in this exercise.
+- ***classify*** here references the previous workflow step. 
+- ***document_type*** references the field from the schema and 
+- ***bol*** the value of this field. Therefore, it is crucial to follow the exact naming in this exercise.
 <br>![](../ex7/images/ex7_2_7.png)
 <br> here is a screenshot of the value "document_type" defined as the entity name for this Schema.
 <br>![](../ex7/images/ex7_2_8a.png)
@@ -101,15 +101,16 @@ Finally fill the schema version ID, with the value you stored in the previous ex
 For each of the branches that reference one of our document types, add an ***Extraction*** step.
 <br>![](../ex7/images/ex7_2_10.png)
 
-13. Fill each of these extraction steps with a schema version ID that matches a schema corresponding to the document type.<br>If you followed all exercises you should have one schema created for each document type.<br>
-To get the version IDs, use a second browser tab, navigate to the schema UI and copy the version ID from the URL of each schema as done in the previous section of this exercise.
+13. Fill each of these extraction steps with a schema version ID that matches a schema corresponding to the document type.
+- If you followed all exercises you should have one schema created for each document type.
+- To get the version IDs, use a second browser tab, navigate to the schema UI and copy the version ID from the URL of each schema as done in the previous section of this exercise.
 #### Workflow Extraction of Bill of Laden Document Type
-<br> Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. 35_CLASSIFICATION | 35 Classification
+Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. 35_CLASSIFICATION | 35 Classification
 <br>![](../ex7/images/ex7_2_12.png)
 <br>![](../ex7/images/ex7_2_12a.png)
 
 #### Workflow Extraction of Company Registry Document Type
-<br> Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. 35_extraction_bol | 35 Extract Bill of Laden
+Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. 35_extraction_bol | 35 Extract Bill of Laden
 <br>![](../ex7/images/ex7_2_11.png)
 <br>![](../ex7/images/ex7_2_11a.png)
 
@@ -140,9 +141,9 @@ To get the version IDs, use a second browser tab, navigate to the schema UI and 
 
 You created a workflow that classifies documents, branches conditionally based on type, and applies type-specific extraction schemas.
 You can now expand this setup by adding additional schemas and workflows to process further document types.
-<br> Bonus: continue to learn more about the follow 2 features:
-<br> [Email Ingestion Demo Video](https://youtu.be/2CFz59M6QkE)
-<br> [Document Scanning Demo Video](https://youtu.be/6zSnSLFhono)
+<br> ***Bonus***: continue to learn more about the follow 2 features:
+- [Email Ingestion Demo Video](https://youtu.be/2CFz59M6QkE)
+- [Document Scanning Demo Video](https://youtu.be/6zSnSLFhono)
 
 ---
 
