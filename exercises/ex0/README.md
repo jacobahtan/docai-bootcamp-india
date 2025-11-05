@@ -5,16 +5,15 @@
 In order to access the UI, select the link based on your group number.
 Participant prefix, user and password will be shared by your moderators.
 
+[SAP Document AI Workspace](https://document-ai-emb-vduorygg.eu10-canary.doc.cloud.sap/workspace)
+
 Please make sure you use the prefix that has been assigned to you. If you're unsure, please reach out to any moderators.
-So, in the exercises, when you're naming or labeling any artifacts, you will use your prefix.
+<br> So, in the exercises, when you're naming or labeling any artifacts, you will use your prefix. In some screenshots, replace the "XX" with your prefix.
 <br> e.g. 01 is assigned as your prefix
 <br> 01_COMPANY_REGISTRY_EXTRACT_STANDARD
 <br> 01 Company Registry Extract Standard
 
 [<img src="/.github/assets/participant-prefix.png"/>](/.github/assets/participant-prefix.png)
-
-[SAP Document AI Workspace](https://document-ai-emb-vduorygg.eu10-canary.doc.cloud.sap/workspace)
-
 
 ## Sample Documents
 
