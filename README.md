@@ -11,8 +11,6 @@ This session introduces attendees to [SAP Document AI](https://www.sap.com/produ
 
 ## Exercises
 
-### Navigation
-
 | Topic | Duration | Link |
 | --- | --- | --- |
 | Exercise 0 - Getting Started | - | [/exercises/ex0](/exercises/ex0) |
