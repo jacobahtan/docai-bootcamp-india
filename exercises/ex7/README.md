@@ -93,10 +93,11 @@ For each of the branches that reference one of our document types, add an ***Ext
 
 13. Fill each of these extraction steps with a schema version ID that matches a schema corresponding to the document type.<br>If you followed all exercises you should have one schema created for each document type.<br>
 To get the version IDs, use a second browser tab, navigate to the schema UI and copy the version ID from the URL of each schema as done in the previous section of this exercise.
-<br>Workflow Extraction of Bill of Laden Document Type
+#### Workflow Extraction of Bill of Laden Document Type
 <br>![](../ex7/images/ex7_2_11.png)
 <br>![](../ex7/images/ex7_2_11a.png)
-<br> Workflow Extraction of Company Registry Document Type
+
+#### Workflow Extraction of Company Registry Document Type
 <br>![](../ex7/images/ex7_2_12.png)
 <br>![](../ex7/images/ex7_2_12a.png)
 
@@ -127,6 +128,9 @@ To get the version IDs, use a second browser tab, navigate to the schema UI and 
 
 You created a workflow that classifies documents, branches conditionally based on type, and applies type-specific extraction schemas.
 You can now expand this setup by adding additional schemas and workflows to process further document types.
+<br> Bonus: continue to learn more about the follow 2 features:
+<br> [Email Ingestion Demo Video](https://youtu.be/2CFz59M6QkE)
+<br> [Document Scanning Demo Video](https://youtu.be/6zSnSLFhono)
 
 ### Navigation
 

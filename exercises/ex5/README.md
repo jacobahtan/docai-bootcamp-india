@@ -27,7 +27,7 @@ In the following exercise, we want to process Bill of Lading documents. Since th
 
 You have learned how to create a custom schema for a new document type.
 confidence levels.<br>
-Continue to [Exercise 6](../ex6/README.md) to learn how to improve accuracy with Instant Learning.
+Continue to [Instant Learning Demo Video](https://youtu.be/fOZsmAPaD9E) to learn how to improve accuracy with Instant Learning.
 
 ### Navigation
 
