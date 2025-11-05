@@ -26,10 +26,20 @@ Continue to - [Exercise 1](../ex1/README.md)
 
 | Topic | Duration | Link |
 | --- | --- | --- |
-| Exercise 0: Getting Started | - | [exercises/ex0/](/exercises/ex0/) |
-| - Access the SAP Document AI User Interface | - | [exercises/ex0#access-the-sap-document-ai-user-interface/](../../exercises/ex0#access-the-sap-document-ai-user-interface) |
-| - Access the Sample Documents | - | [exercises/ex0#sample-documents](../../exercises/ex0#sample-documents) |
-| Exercise 1 - Activate a content schema and upload your first document | - | [exercises/ex0#sample-documents](../../exercises/ex0#sample-documents) |
+| Exercise 0: Getting Started | - | [/exercises/ex0/](/exercises/ex0/) |
+| - Access the SAP Document AI User Interface | - | [/exercises/ex0#access-the-sap-document-ai-user-interface/](/exercises/ex0#access-the-sap-document-ai-user-interface) |
+| - Access the Sample Documents | - | [/exercises/ex0#sample-documents](/exercises/ex0#sample-documents) |
+| Exercise 1 - Activate a content schema and upload your first document | 10 mins | [/exercises/ex1/](/exercises/ex1/) |
+| - Exercise 1.1 - Exercise 1 Activate a content schema | - | [/exercises/ex1#exercise-11-sub-exercise-1-description](/exercises/ex1#exercise-11-sub-exercise-1-description) |
+| - Exercise 1.2 - Exercise 1 Upload a document | - | [/exercises/ex1#exercise-12-sub-exercise-2-description](/exercises/ex1#exercise-12-sub-exercise-2-description) |
+| Exercise 2 - Configure a schema | 5 mins | [/exercises/ex2/](/exercises/ex2/) |
+| Exercise 3 - Add custom fields to your schema | 5 mins | [/exercises/ex3/](/exercises/ex3/) |
+| Exercise 4 - Review documents and automate the review | 15 mins | [/exercises/ex4/](/exercises/ex4/) |
+| Exercise 5 - Create a custom schema | 15 mins | [/exercises/ex5/](/exercises/ex5/) |
+| Demo 6 - Use Instant Learning to improve extraction accuracy | 3 mins | [Instant Learning Demo Video](https://youtu.be/fOZsmAPaD9E) |
+| Exercise 7 - Create a document workflow | 15 mins | [/exercises/ex7/](/exercises/ex7/) |
+| Demo 8 - Email Ingestion with Channels | 1 min | [Email Ingestion Demo Video](https://youtu.be/2CFz59M6QkE) |
+| Demo 9 - Document Scanning with SAP Mobile Start | 2 mins | [Document Scanning Demo Video](https://youtu.be/6zSnSLFhono) |
 
 - [Getting Started](exercises/ex0/)
     - [Access the SAP Document AI User Interface](exercises/ex0#access-the-sap-document-ai-user-interface)
