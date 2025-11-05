@@ -6,6 +6,10 @@ In order to access the UI, select the link based on your group number.
 Participant prefix, user and password will be shared by your moderators.
 
 Please make sure you use the prefix that has been assigned to you. If you're unsure, please reach out to any moderators.
+So, in the exercises, when you're naming or labeling any artifacts, you will use your prefix.
+e.g. 01 is your prefix
+01_COMPANY_REGISTRY_EXTRACT_STANDARD
+01 Company Registry Extract Standard
 
 [<img src="/.github/assets/participant-prefix.png"/>](/.github/assets/participant-prefix.png)
 
