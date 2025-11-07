@@ -7,7 +7,8 @@ Participant prefix, user and password will be shared by your moderators.
 
 [SAP Document AI Workspace](https://document-ai-emb-vduorygg.eu10-canary.doc.cloud.sap/workspace#/landingPage)
 
-Please make sure you use the prefix that has been assigned to you. If you're unsure, please reach out to any moderators.
+**Please make sure you use the ***PREFIX*** that has been assigned to you.**
+<br>If you're unsure, please reach out to any moderators.
 <br> So, in the exercises, when you're naming or labeling any artifacts, you will use your prefix. In some screenshots, replace the "XX" with your prefix.
 - e.g. if A01 is assigned as your prefix
 - A01_COMPANY_REGISTRY_EXTRACT_STANDARD
