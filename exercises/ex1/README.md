@@ -14,14 +14,16 @@ After completing these steps you will have activated your first schema.
 - Search for "COMPANY_REGISTRY_EXTRACT_STANDARD".
 - Select the ☑️ checkbox and then Click on "Enable". 
 <br>
-<br>![](../ex1/images/ex1_2.png)
+<br>
+[](../ex1/images/ex1_2.png)
 
 **What are we trying to achieve:** To use SAP's pre-delivered content (Document Type) of Company Registry, then we will upload documents related to it.
 
 3. In the dialog, select version "1", and mark the checkbox "Activate" and click "Create". This will create a copy of the content and activate it so that you can use the schema afterwards for document processing. 
 - Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. A35_COMPANY_REGISTRY_EXTRACT_STANDARD | A35 Comapny Registry Extract Standard
 <br>
-<br>![](../ex1/images/ex1_new3.png)
+<br>
+[](../ex1/images/ex1_new3.png)
 
 
 ## Exercise 1.2 Upload your first document
