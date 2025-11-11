@@ -13,8 +13,6 @@ After completing these steps you will have activated your first schema.
 2. In the Schema overview page, 
 - Search for "COMPANY_REGISTRY_EXTRACT_STANDARD".
 - Select the ☑️ checkbox and then Click on "Enable". 
-<br>
-<br>
 [](../ex1/images/ex1_2.png)
 
 **What are we trying to achieve:** To use SAP's pre-delivered content (Document Type) of Company Registry, then we will upload documents related to it.
