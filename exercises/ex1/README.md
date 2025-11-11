@@ -21,8 +21,6 @@ After completing these steps you will have activated your first schema.
 
 3. In the dialog, select version "1", and mark the checkbox "Activate" and click "Create". This will create a copy of the content and activate it so that you can use the schema afterwards for document processing. 
 - Make sure to ***replace "XX" with your Prefix*** assigned to you. e.g. A35_COMPANY_REGISTRY_EXTRACT_STANDARD | A35 Comapny Registry Extract Standard
-<br>
-<br>
 [](../ex1/images/ex1_new3.png)
 
 
